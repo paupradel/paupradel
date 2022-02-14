@@ -28,7 +28,7 @@ Soy Paulina Pradel. Soy desarrolladora 💻 enfocada en hacer código para encon
   
 ## 📊 Las stats   
 
-[![Pradel's GitHub stats](https://github-readme-stats.vercel.app/api?username=paupradel&count_private=true&show_icons=true&theme=buefy)](https://github.com/paupradel/github-readme-stats)
+[![Pradel's GitHub stats](https://github-readme-stats.vercel.app/api?username=paupradel&count_private=true&show_icons=true&theme=buefy)](https://github.com/paupradel/paupradel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paupradel)](https://github.com/paupradel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paupradel)](https://github.com/paupradel/paupradel)
 
