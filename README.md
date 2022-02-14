@@ -3,7 +3,7 @@
 
 ## Hola! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="35px"></a>
 
-Soy Paulina Pradel. Soy desarrolladora 💻 enfocada en hacer código para encontrar los detalles, agudezas, _insights_, etc, etc de los datos. Actualmente colaboro en el gobierno para la mejora de las políticas públicas del país de los tacos (México). Me puedes hallar limpiando conjutos de datos, elaborando una gráfica o automatizando procesos. En mi tiempo libre me puedes hallar leyendo ciencia ficción y fantasía, principalmente, jugando Switch o tejiendo amigurumis para mis amigxs.  
+Soy Paulina Pradel. Soy desarrolladora 💻 enfocada en hacer código para encontrar los detalles, agudezas, _insights_, etc, etc de los datos. Actualmente colaboro en el gobierno para la mejora de las políticas públicas del país de los tacos (México). Me puedes hallar limpiando conjutos de datos, elaborando una gráfica o automatizando procesos. En mi tiempo libre me verás leyendo ciencia ficción y fantasía, principalmente, o bien, jugando Switch o tejiendo amigurumis para mis amigxs.  
 
 
 
