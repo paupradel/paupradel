@@ -20,12 +20,3 @@ Soy Paulina Pradel. Soy desarrolladora, analista de datos y líder técnica 💻
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-  
-  
-  
-## 📊 Las stats   
-
-[![Pradel's GitHub stats](https://github-readme-stats.vercel.app/api?username=paupradel&count_private=true&show_icons=true&theme=buefy)](https://github.com/paupradel/paupradel)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paupradel)](https://github.com/paupradel/paupradel)
-
